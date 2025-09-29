@@ -94,7 +94,7 @@ Dan karena kamu takut kehilangan pacar, kamu nurut sama dia. Jadi yang ditampilk
 
 5. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
-Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+Berikan penjelasan dan contohnya! (id="paragraf-1" class="text-paragraf")
 
 Ini kayak kamu punya dua panggilan: nama panggilan (class) dan nama asli (ID). Kalau ada yang manggil dua-duanya, kamu lebih cepat respon ke nama asli, karena itu lebih personal. Jadi:
 
