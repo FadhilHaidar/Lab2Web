@@ -58,6 +58,8 @@ screenshotnya.
 
 6. Lakukan validasi dokumen css dengan mengakses https://jigsaw.w3.org/css-validator/
 
+  <img width="915" height="592" alt="image" src="https://github.com/user-attachments/assets/adf786f0-ebac-470f-9a08-9e8512e6563d" />
+
 ## Menjawab Pertanyaan
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
@@ -66,10 +68,36 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
 penjelasannya!
 
+Bayangin kamu punya banyak kucing. h1 itu kayak kamu manggil semua kucing di komplek: “Kucing! Sini!” Semua kucing datang, bahkan yang bukan punya kamu.
+
+Nah, intro h1 itu kayak kamu manggil kucing yang tinggal di rumah kamu, di kamar tamu, dan namanya “Intro.” Jadi cuma kucing di ruangan itu yang datang. Artinya:
+
+- h1 = Semua elemen h1 di halaman kena styling.
+
+- intro h1 = Hanya h1 yang ada di dalam elemen dengan ID intro yang kena styling.
+
+Jadi, yang satu general, yang satu spesifik. Kayak bedanya ngajak makan semua temen vs ngajak makan mantan yang masih kamu stalk.
+
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
 elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
 penjelasan dan contohnya!
 
-4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+Ini kayak kamu punya tiga orang nyuruh kamu pakai baju:
+
+- Eksternal CSS = Nyokap bilang, “Pakai baju batik.”
+
+- Internal CSS = Kakak bilang, “Pakai hoodie.”
+
+- Inline CSS = Pacar bilang, “Pakai jas biar ganteng.”
+
+Dan karena kamu takut kehilangan pacar, kamu nurut sama dia. Jadi yang ditampilkan adalah inline CSS, karena dia paling kuat. Urutannya gini: Inline > Internal > Eksternal
+
+5. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+
+Ini kayak kamu punya dua panggilan: nama panggilan (class) dan nama asli (ID). Kalau ada yang manggil dua-duanya, kamu lebih cepat respon ke nama asli, karena itu lebih personal. Jadi:
+
+- ID lebih kuat daripada Class.
+
+- Kalau ada konflik styling, yang dari ID akan ditampilkan.
