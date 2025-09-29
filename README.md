@@ -23,26 +23,26 @@ screenshotnya.
 
 4. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 
-  a. Membuat dokumen HTML
+  a. **Membuat dokumen HTML**
 
   <img width="692" height="949" alt="image" src="https://github.com/user-attachments/assets/afc9af07-f3e2-4dfa-9021-9554bf0e5326" />
 
   <img width="957" height="948" alt="image" src="https://github.com/user-attachments/assets/1b2833e9-85cc-43c3-8b43-ae1836015104" />
 
 
-  b. Mendeklarasikan CSS Internal
+  b. **Mendeklarasikan CSS Internal**
 
   <img width="580" height="663" alt="image" src="https://github.com/user-attachments/assets/6a6798dd-06e9-4526-b4cf-633c3ce6b3f3" />
 
   <img width="960" height="946" alt="image" src="https://github.com/user-attachments/assets/8cb7f05c-00d7-4648-938a-ef0014bc6f68" />
 
-  c. Menambahkan Inline CSS
+  c. **Menambahkan Inline CSS**
 
   <img width="635" height="116" alt="image" src="https://github.com/user-attachments/assets/bdc645f1-68fa-4239-aa50-b7d892b8dd26" />
 
   <img width="956" height="948" alt="image" src="https://github.com/user-attachments/assets/44493152-fff7-432a-92a6-da190641b9f7" />
 
-  d. Membuat CSS Eksternal
+  d. **Membuat CSS Eksternal**
 
   <img width="341" height="506" alt="image" src="https://github.com/user-attachments/assets/b95135d1-2c06-41fc-891a-0703198f8e62" />
 
@@ -50,7 +50,7 @@ screenshotnya.
 
   <img width="958" height="947" alt="image" src="https://github.com/user-attachments/assets/6c83f5f3-e8ba-4e6b-ab1f-cefcd85d8d19" />
 
-  e. Menambahkan CSS Selector
+  e. **Menambahkan CSS Selector**
 
   <img width="434" height="801" alt="image" src="https://github.com/user-attachments/assets/f968ccc5-812e-4957-a439-d299253d8b5e" />
 
