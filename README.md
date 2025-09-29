@@ -1,4 +1,4 @@
-<img width="958" height="947" alt="image" src="https://github.com/user-attachments/assets/ebe49480-245e-49d6-8790-422f48ff9bf1" /># Praktikum 2: CSS Dasar
+# Praktikum 2: CSS Dasar
 
 1. Buatlah **repository** baru dengan nama **Lab2Web.**
 
